@@ -1,6 +1,6 @@
 # Ticket booking app
 
-This app is created in C++ language as as a project for college. The app is developed for a travel agency who has 2 types of users: admin user and client user. 
+This app is created in C++ language as as a project for college. The app is designed for a travel agency who has 2 types of users: admin user and client user. 
 
 The admin is able to log in its menu with some existing credentials, and then he will be able to add, delete a tour and to see all existing bookings.
 
